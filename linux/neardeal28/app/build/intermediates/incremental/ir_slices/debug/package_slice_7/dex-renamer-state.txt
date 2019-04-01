@@ -1,0 +1,4 @@
+#Sat Mar 16 16:05:59 WIB 2019
+base.0=/root/AndroidStudioProjects/neardeal28/app/build/intermediates/transforms/dexMerger/debug/7
+path.0=classes.dex
+renamed.0=classes.dex
